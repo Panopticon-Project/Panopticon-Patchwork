@@ -63,3 +63,21 @@ https://www.securityweek.com/patchwork-cyberspies-update-badnews-backdoor
 https://www.securityweek.com/patchwork-cyberspies-target-us-think-tanks
 
 https://www.securityweek.com/researchers-draw-connections-between-apts
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/the-urpage-connection-to-bahamut-confucius-and-patchwork/, 
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/deciphering-confucius-cyberespionage-operations/
+
+http://normanshark.com/wp-content/uploads/2013/08/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf	
+
+https://www.cymmetria.com/patchwork-targeted-attack/	
+
+https://blogs.forcepoint.com/security-labs/monsoon-analysis-apt-campaign	
+
+https://securelist.com/the-dropping-elephant-actor/75328/	
+
+http://blog.trendmicro.com/trendlabs-security-intelligence/untangling-the-patchwork-cyberespionage-group/	
+
+http://www.sohu.com/a/211497788_764248	
+
+https://ti.360.net/blog/articles/analysis-of-apt-c-09-target-china/	
