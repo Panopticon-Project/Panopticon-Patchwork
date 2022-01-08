@@ -145,3 +145,5 @@ https://github.com/quasar/QuasarRAT
 https://blog.trendmicro.com/trendlabs-security-intelligence/confucius-update-new-tools-and-techniques-further-connections-with-patchwork/
 
 https://cybleinc.com/2021/01/20/a-deep-dive-into-patchwork-apt-group/
+
+https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/
