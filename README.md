@@ -147,3 +147,9 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/confucius-update-new
 https://cybleinc.com/2021/01/20/a-deep-dive-into-patchwork-apt-group/
 
 https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/
+
+https://www.securityweek.com/researchers-draw-connections-between-apts
+
+https://www.zdnet.com/article/new-novel-android-spyware-linked-to-pro-india-confucius-threat-group/
+
+https://news.softpedia.com/news/pakistani-military-targeted-by-confucius-with-pegasus-spyware-lures-533823.shtml
