@@ -153,3 +153,5 @@ https://www.securityweek.com/researchers-draw-connections-between-apts
 https://www.zdnet.com/article/new-novel-android-spyware-linked-to-pro-india-confucius-threat-group/
 
 https://news.softpedia.com/news/pakistani-military-targeted-by-confucius-with-pegasus-spyware-lures-533823.shtml
+
+https://ti.qianxin.com/blog/articles/analysis-of-the-attack-activities-of-patchwork-using-the-documents-of-relevant-government-agencies-in-pakistan-as-bait/
