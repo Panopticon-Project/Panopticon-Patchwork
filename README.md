@@ -155,3 +155,5 @@ https://www.zdnet.com/article/new-novel-android-spyware-linked-to-pro-india-conf
 https://news.softpedia.com/news/pakistani-military-targeted-by-confucius-with-pegasus-spyware-lures-533823.shtml
 
 https://ti.qianxin.com/blog/articles/analysis-of-the-attack-activities-of-patchwork-using-the-documents-of-relevant-government-agencies-in-pakistan-as-bait/
+
+https://mp.weixin.qq.com/s/XMrWLx6KVeoDQ7WzvOcwqA
